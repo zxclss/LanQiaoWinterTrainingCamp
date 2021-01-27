@@ -1,4 +1,4 @@
-# Weeks 02
+# Practice_0x01
 
 ## J - 2-J
 
@@ -30,3 +30,6 @@
 32
 ```
 
+
+
+[题目OJ地址](https://nanti.jisuanke.com/t/T1217)
