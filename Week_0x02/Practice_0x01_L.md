@@ -1,4 +1,4 @@
-# Weeks 02
+# Practice_0x01
 
 ## L - 2-L
 
@@ -20,8 +20,6 @@
 3
 ```
 
-
-
 ### Sample Out
 
 ```
@@ -30,3 +28,4 @@
 
 
 
+[题目OJ地址](https://nanti.jisuanke.com/t/T1475)
